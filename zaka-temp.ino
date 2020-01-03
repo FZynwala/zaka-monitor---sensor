@@ -7,8 +7,8 @@
 #define ONE_WIRE_BUS 5
 #define DHT11_PIN 4
 
-const char* ssid = "kacpot"; 
-const char* password = "2323232323"; 
+const char* ssid = "ssid"; 
+const char* password = "password"; 
 
 const char* host = "https://young-ocean-79520.herokuapp.com"; //edit the host adress, ip address etc. 
 String url;
